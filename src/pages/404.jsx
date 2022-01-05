@@ -10,6 +10,10 @@ import Seo from "@lekoarts/gatsby-theme-cara/src/components/seo"
 import Content from "@lekoarts/gatsby-theme-cara/src/elements/content"
 import Inner from "@lekoarts/gatsby-theme-cara/src/elements/inner"
 
+
+
+
+//
 const NotFound = () => (
   <Layout>
     <Seo title="404 - Not Found" />
